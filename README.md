@@ -1,4 +1,4 @@
-# Learn Blockchains by Building One
+# Learn Blockchains by Building One From Hackernoon.com
 
 [![Build Status](https://travis-ci.org/dvf/blockchain.svg?branch=master)](https://travis-ci.org/dvf/blockchain)
 
